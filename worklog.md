@@ -3883,3 +3883,6 @@ considered architectural patterns, blueprint still in flux; designing the struct
 ## 2024-04-06T21:45:32
 mental load increased, server load unchanged; cognitive heavy lifting.
 
+## 2024-04-08T23:20:24
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
