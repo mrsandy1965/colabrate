@@ -4117,3 +4117,6 @@ conducted thought experiments, real experiments postponed; hypothesis before tes
 ## 2024-05-14T14:47:02
 considered continuous integration, deployment continuous only in mind; DevOps dreaming.
 
+## 2024-05-14T12:13:59
+considered containerization, docker-free day; isolation in thought only.
+
