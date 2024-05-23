@@ -4204,3 +4204,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2024-05-23T16:11:03
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2024-05-23T15:37:00
+thought experiments ran, real experiments backlogged; hypothesis formation day.
+
