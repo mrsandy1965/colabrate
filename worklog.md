@@ -4207,3 +4207,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2024-05-23T15:37:00
 thought experiments ran, real experiments backlogged; hypothesis formation day.
 
+## 2024-05-23T13:03:57
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
