@@ -4354,3 +4354,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2024-06-13T16:02:17
 pondered orm abstractions, sql queries unchanged; data access theorizing.
 
+## 2024-06-13T15:47:20
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
