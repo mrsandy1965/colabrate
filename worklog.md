@@ -4579,3 +4579,6 @@ considered a/b testing strategies, user experience constant; theoretical experim
 ## 2024-07-11T19:43:19
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2024-07-15T11:07:12
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
