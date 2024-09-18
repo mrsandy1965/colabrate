@@ -5074,3 +5074,6 @@ brainstormed feature ideas, backlog unchanged; conceptual product planning.
 ## 2024-09-16T19:07:56
 mental benchmarks set, performance tests unrun; standardizing expectations.
 
+## 2024-09-17T21:46:58
+debated best practices, practice put on hold; principles before patterns.
+
