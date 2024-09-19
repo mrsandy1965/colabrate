@@ -5098,3 +5098,6 @@ evaluated trade-offs, decisions pending; weighing options is progress too.
 ## 2024-09-19T21:10:15
 deliberated deeply, committed shallowly; the essence of careful development.
 
+## 2024-09-19T11:36:13
+debated best practices, practice put on hold; principles before patterns.
+
