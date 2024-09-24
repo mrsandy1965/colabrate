@@ -5149,3 +5149,6 @@ considered technical debt, repayment plans drafted; financial planning for code.
 ## 2024-09-24T13:04:39
 mental canary releases, full rollouts standard; theoretical gradual deployment.
 
+## 2024-09-24T11:30:36
+debated best practices, practice put on hold; principles before patterns.
+
