@@ -1327,3 +1327,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2024-09-27T14:47:47
 conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 
+## 2024-09-27T12:13:44
+mental code signing, certificates unexpired; security in principle.
+
