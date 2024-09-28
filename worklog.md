@@ -1333,3 +1333,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2024-09-27T10:39:42
 thought-level unit testing, test suite size constant; mental quality assurance.
 
+## 2024-09-27T23:57:39
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
