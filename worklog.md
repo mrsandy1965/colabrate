@@ -2263,3 +2263,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2024-09-26T10:03:29
 mental memory management, garbage collector idle; cognitive resource allocation.
 
+## 2024-09-30T14:05:49
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
