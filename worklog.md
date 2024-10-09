@@ -1384,3 +1384,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2024-10-07T14:43:19
 considered graphql resolvers, rest controllers stable; data graph contemplation.
 
+## 2024-10-08T21:32:02
+considered scalability issues, scaling postponed; thinking big while starting small.
+
