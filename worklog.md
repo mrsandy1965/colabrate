@@ -2383,3 +2383,6 @@ explored machine learning models, training data hypothetical; ai brainstorming s
 ## 2024-10-12T13:22:16
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2024-10-12T11:48:14
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
