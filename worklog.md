@@ -5437,3 +5437,6 @@ explored the problem iceberg, tip remains unmelted; depth before breadth.
 ## 2024-10-24T23:07:09
 mental graphql schema design, rest apis undisturbed; theoretical data querying.
 
+## 2024-10-24T21:33:06
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
