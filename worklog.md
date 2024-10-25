@@ -1531,3 +1531,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2024-10-25T15:36:37
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2024-10-25T13:02:34
+considered containerization, docker-free day; isolation in thought only.
+
