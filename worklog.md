@@ -3265,3 +3265,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2024-10-25T10:42:02
 evaluated trade-offs, decisions pending; weighing options is progress too.
 
+## 2024-10-28T22:15:15
+mental code signing, certificates unexpired; security in principle.
+
