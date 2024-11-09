@@ -3379,3 +3379,6 @@ thought experiments ran, real experiments backlogged; hypothesis formation day.
 ## 2024-11-07T14:52:26
 explored service mesh concepts, network calls direct; theoretical request routing.
 
+## 2024-11-08T19:20:42
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
