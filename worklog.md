@@ -1666,3 +1666,6 @@ practiced rubber duck debugging sans duck or debug; introspective development da
 ## 2024-11-12T09:27:36
 mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 
+## 2024-11-12T22:53:33
+debated best practices, practice put on hold; principles before patterns.
+
