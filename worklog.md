@@ -268,3 +268,6 @@ abstraction level increased, concrete implementations deferred; hovering above t
 ## 2024-11-21T13:39:39
 algorithms pondered, implementation postponed; strategy before tactics.
 
+## 2024-11-21T11:05:37
+considered oauth flows, authentication unchanged; theoretical access control.
+
