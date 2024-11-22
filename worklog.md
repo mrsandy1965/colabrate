@@ -2677,3 +2677,6 @@ considered logging strategies, log files unchanging; traceability in theory.
 ## 2024-11-20T18:06:49
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2024-11-21T22:55:27
+mental feature toggles, all features on; theoretical selective execution.
+
