@@ -2686,3 +2686,6 @@ thought about cache invalidation, cache hits steady; conceptual performance tuni
 ## 2024-11-21T18:47:22
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2024-11-21T17:13:19
+debated best practices, practice put on hold; principles before patterns.
+
