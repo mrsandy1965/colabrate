@@ -1780,3 +1780,6 @@ explored quantum computing algorithms, classical computing steady; theoretical s
 ## 2024-11-25T21:27:39
 abstract problem-solving, concrete solutions pending; cognitive algorithmic work.
 
+## 2024-11-25T11:53:36
+debated best practices, practice put on hold; principles before patterns.
+
