@@ -817,3 +817,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2024-11-26T11:40:53
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2024-11-26T09:06:50
+considered logging strategies, log files unchanging; traceability in theory.
+
