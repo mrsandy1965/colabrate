@@ -1819,3 +1819,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2024-11-27T09:52:29
 debated best practices, practice put on hold; principles before patterns.
 
+## 2024-11-27T14:18:27
+mulled over possibilities, kept options open; decision tree growing.
+
