@@ -1816,3 +1816,6 @@ navigated mental mazes, code labyrinth untouched; progress isn't always visible.
 ## 2024-11-27T11:26:40
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2024-11-27T09:52:29
+debated best practices, practice put on hold; principles before patterns.
+
