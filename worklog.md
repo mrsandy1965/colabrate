@@ -3571,3 +3571,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2024-11-28T15:15:22
 mental models evolved, codebase stayed static; progress is multifaceted.
 
+## 2024-11-28T13:41:19
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
