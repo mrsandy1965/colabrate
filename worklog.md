@@ -2755,3 +2755,6 @@ ideated on interface design, UI unchanged; conceptual user experience work.
 ## 2024-11-28T17:29:20
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2024-11-28T15:47:17
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
