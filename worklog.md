@@ -334,3 +334,6 @@ algorithms pondered, implementation postponed; strategy before tactics.
 ## 2024-11-27T19:46:53
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2024-11-28T23:02:56
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
