@@ -1822,3 +1822,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2024-11-27T14:18:27
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2024-11-28T18:01:21
+abstract problem-solving, concrete solutions pending; cognitive algorithmic work.
+
