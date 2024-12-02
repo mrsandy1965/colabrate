@@ -364,3 +364,6 @@ conceptual refactoring day, codebase refactoring pending; reshaping ideas.
 ## 2024-12-02T12:45:05
 explored event-driven architecture, listeners unimplemented; reactive thinking exercise.
 
+## 2024-12-02T10:11:02
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
