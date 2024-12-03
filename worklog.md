@@ -1849,3 +1849,6 @@ considered helm charts, kubernetes clusters imaginary; theoretical container orc
 ## 2024-11-29T11:05:12
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2024-12-02T22:20:09
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
