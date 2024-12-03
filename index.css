@@ -7,5 +7,5 @@ h1{
     color: gray;
 }
 body{
-    background: radial-gradient(aqua, lightblue);
+    background: linear-gradient(blue, cyan)
 }
