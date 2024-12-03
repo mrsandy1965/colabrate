@@ -367,3 +367,6 @@ explored event-driven architecture, listeners unimplemented; reactive thinking e
 ## 2024-12-02T10:11:02
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2024-12-02T23:29:00
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
