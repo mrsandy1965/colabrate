@@ -1852,3 +1852,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2024-12-02T22:20:09
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2024-12-02T20:46:06
+thought experiments ran, real experiments backlogged; hypothesis formation day.
+
