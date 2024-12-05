@@ -898,3 +898,6 @@ mental version control practiced, git uninvolved; tracking thought evolution.
 ## 2024-12-04T18:19:49
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2024-12-05T09:52:01
+considered hot code reloading, restarts required; theoretical continuous operation.
+
