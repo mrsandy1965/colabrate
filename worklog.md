@@ -3667,3 +3667,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2024-12-10T22:35:39
 explored architectural possibilities, blueprint remains draft; planning has merit.
 
+## 2024-12-11T11:34:44
+explored web assembly, javascript dominant; theoretical performance optimization.
+
