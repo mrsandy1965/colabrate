@@ -2848,3 +2848,6 @@ deepened understanding, delayed execution; knowledge precedes implementation.
 ## 2024-12-12T21:41:41
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2024-12-16T15:15:25
+considered hot code reloading, restarts required; theoretical continuous operation.
+
