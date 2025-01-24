@@ -6160,3 +6160,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2025-01-23T18:28:31
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2025-01-23T16:54:29
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
