@@ -30,3 +30,5 @@ console.log(sortEntries(favFruit,"value","desc"))
 console.log(sortEntries(favFruit,"value","asc"))
 console.log(sortEntries(favFruit,"key","desc"))
 console.log(sortEntries(favFruit,"key","asc"))
+
+console.log("day 2")
